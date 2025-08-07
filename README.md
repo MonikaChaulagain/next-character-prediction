@@ -1,1 +1,1 @@
-# sequenceclassifier
+SEQUENCE CLASSIFIER FROM SCRATCH
